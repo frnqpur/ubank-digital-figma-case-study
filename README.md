@@ -219,18 +219,6 @@ Because this is a banking-related UI/UX prototype, all visible data should be tr
 
 ---
 
-## Portfolio Positioning
-
-Recommended project title for portfolio:
-
-**UBank Digital — Mobile Banking UI/UX Prototype**
-
-Recommended short description:
-
-> Designed a Figma-based mobile banking UI/UX prototype covering onboarding, authentication, dashboard, card management, transaction history, send money flow, and profile/settings.
-
----
-
 ## Notes
 
 This repository is intended for portfolio documentation only. It does not contain production banking logic, backend services, real authentication, database migrations, financial APIs, or live payment functionality.
