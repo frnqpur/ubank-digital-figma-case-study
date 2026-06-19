@@ -189,17 +189,6 @@ The visual direction uses a clean mobile banking interface with:
 ```text
 ubank-digital-figma-case-study/
 ├─ README.md
-├─ docs/
-│  ├─ PROJECT_BRIEF.md
-│  ├─ RECRUITER_VIEW.md
-│  ├─ FIGMA_PROTOTYPE_GUIDE.md
-│  ├─ VIDEO_CHECKLIST.md
-│  ├─ SCREENSHOT_CHECKLIST.md
-│  ├─ CASE_STUDY_ID.md
-│  ├─ CASE_STUDY_EN.md
-│  ├─ CV_BULLETS.md
-│  ├─ PORTFOLIO_PAGE_CONTENT.md
-│  └─ SECURITY_CLEANUP.md
 ├─ screenshots/
 │  ├─ 01-onboarding-payment.png
 │  ├─ 02-onboarding-security.png
@@ -212,25 +201,9 @@ ubank-digital-figma-case-study/
 │  ├─ 09-search-transaction.png
 │  ├─ 10-send-money.png
 │  └─ 11-profile-settings.png
-├─ video-demo/
-│  └─ ubank-prototype-demo.mp4
-└─ source-assets/
-   ├─ Design Figma.PNG
-   ├─ Link Figma.txt
-   └─ UBank APP.pdf
+└─ video-demo/
+   └─ ubank-prototype-demo.mp4
 ```
-
----
-
-## Case Study
-
-Detailed case study documentation is available here:
-
-- [Case Study — Indonesian](docs/CASE_STUDY_ID.md)
-- [Case Study — English](docs/CASE_STUDY_EN.md)
-- [Project Brief](docs/PROJECT_BRIEF.md)
-- [Recruiter View](docs/RECRUITER_VIEW.md)
-- [Security Cleanup](docs/SECURITY_CLEANUP.md)
 
 ---
 
